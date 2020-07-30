@@ -1,0 +1,18 @@
+.well{
+    min-height: 60px;
+    background-color: #343a40;
+    border-bottom: 1px solid #3E28CD;
+}
+.border-3 {
+    border-width:3px !important;
+    border-color: #696969 !important;
+    color: tomato !important;
+}
+.bgblack{
+    background-color: black;
+}
+.bgdiv{
+    background-image: url("../img/lights.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
